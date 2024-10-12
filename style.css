@@ -1,0 +1,19 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.table{
+    background-color: black;
+    color: white;
+    font-size: 60px;
+    width: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-family: "Roboto", sans-serif;
+}
+.num{
+    background-color: blue;
+    width: 410px;
+    font-size: 60px;
+}
